@@ -4,8 +4,11 @@ Using LPJ-GUESS model to study carbon cycle in China
 # 9/1/2021
 # folder description
 model: store model code and its executable files
+
 parameters: store parameters files for model
+
 output: store the simulation results
+
 results: store the anlaysis results from simultion
 
 Some useful references
